@@ -12,7 +12,7 @@
                 <!-- 2.数据库连接地址 -->
                 <property name="url" value="jdbc:mysql://localhost:3306/course"/>
                 <!-- 数据库用户... -->
-                <property name="username" value="root/>
+                <property name="username" value="root"/>
                 <!-- 数据库密码... -->
                 <property name="password" value="1234"/>
             </dataSource>

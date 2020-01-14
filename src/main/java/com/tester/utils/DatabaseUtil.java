@@ -1,4 +1,4 @@
-package com.course.utils;
+package com.tester.utils;
 
 import java.io.IOException;
 import java.io.Reader;

@@ -1,10 +1,10 @@
-package com.course.utils;
+package com.tester.utils;
 
 import java.net.URL;
 import java.util.Locale;
 import java.util.ResourceBundle;
 
-import com.course.model.InterfaceName;
+import com.tester.model.InterfaceName;
 
 public class ConfigFile {
 	/**

@@ -1,4 +1,4 @@
-package com.course.config;
+package com.tester.config;
 
 import java.io.File;
 import java.util.Calendar;
